@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyMultiCutOut</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_new_project_name">Name</string>
+    <string name="create_new_select_image">Select pictures</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ok_button">OK</string>
+    <string name="preparing_for_share">Preparing for share...</string>
+    <string name="share">share</string>
+</resources>
